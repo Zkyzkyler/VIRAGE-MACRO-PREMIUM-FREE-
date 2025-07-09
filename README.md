@@ -19,6 +19,9 @@ Before starting the macro:
 - make sure UI Navigation is turned **ON** in your Roblox settings
 - unequip your **“grey mouse” pet** if you have some equipped since they give you a speed bonus that will break the macro
 
+After starting the macro:
+- Put your REAL username, It won't do anything, Just to check if it's real. Then press OK
+
 ## Features
 Virage Grow A Garden Macro has a couple of different features it is capable of. These include:
 - Automatic buying from all Shops, with the options to check the items you want the macro to purchase
